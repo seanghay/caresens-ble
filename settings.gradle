@@ -1,0 +1,3 @@
+rootProject.name = "CareSens BLE"
+include ':app'
+include ':caresensble'
